@@ -1,0 +1,51 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "jyotindra@gmail.com",
+      "password": "123"
+    }
+  ],
+  "products": [
+    {
+      "id": "1714655856204",
+      "title": "SELTOS",
+      "price": "500000",
+      "manufacturer": "KIA",
+      "stock": "50",
+      "description": "The Kia Seltos  is a subcompact crossover SUV manufactured by Kia. Introduced in mid-2019, the Seltos is positioned between the smaller Stonic, Soul, or Sonet and the larger Sportage in Kia's global SUV lineup."
+    },
+    {
+      "id": "1714655882480",
+      "title": "FORTUNER ",
+      "price": "2500000",
+      "manufacturer": "TOYOTA",
+      "stock": "10",
+      "description": "The new Fortuner boasts of a power-packed 6-speed Diesel and Petrol AT as well as MT engine capable of turning mountains into molehills. With so much raw, unbridled power at your beck and call, the new Fortuner makes blazing new trails and conquering uncharted territory as easy as a walk in the park."
+    },
+    {
+      "id": "1714658467034",
+      "title": "BALENO",
+      "price": "900000",
+      "manufacturer": "NEXA",
+      "stock": "15",
+      "description": "The New NEXA Baleno by Maruti Suzuki is a premium hatchback."
+    },
+    {
+      "id": "1714659033077",
+      "title": "SWIFT",
+      "price": "500000",
+      "manufacturer": "Maruti Suzuki",
+      "stock": "50",
+      "description": "The Maruti Suzuki Swift was launched in India on 25 May 2005 with the familiar 1.3-litre SOHC 16-valve G13BB petrol engine seen in Maruti Esteem."
+    },
+    {
+      "id": "1714659754071",
+      "title": "BREZZA",
+      "price": "800000",
+      "manufacturer": "Maruti Suzuki",
+      "stock": "10",
+      "description": "The Suzuki Brezza (known as Vitara Brezza for the first generation) is a subcompact crossover SUV from Suzuki and manufactured by Maruti Suzuki in India."
+    }
+  ]
+}

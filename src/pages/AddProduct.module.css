@@ -1,0 +1,40 @@
+.control_form {
+  width: 80%;
+  /* background-color: red; */
+  margin: auto;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+}
+.form_div {
+  width: 100%;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.form_div > label {
+  width: 30%;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.form_div > input,
+.form_div > textarea {
+  width: 50%;
+  border-radius: 10px;
+  border: 1px solid grey;
+  padding: 5px;
+}
+.form_div > button {
+  border: none;
+  border-radius: 5px;
+  padding: 5px 50px;
+  font-weight: bold;
+  background-color: green;
+  color: white;
+  text-transform: uppercase;
+  margin: 0 5px;
+}
+
+.form_div > button.reset_btn{
+    background-color: skyblue
+}
